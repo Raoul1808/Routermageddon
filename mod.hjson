@@ -11,7 +11,10 @@ author: "Raoul1808"
 main: "mew.RouterDeathMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description:
+'''
+Makes router chains a lot more efficient at teaching the player why these are bad design choices.
+'''
 
 #the mod version
 version: 1.0
